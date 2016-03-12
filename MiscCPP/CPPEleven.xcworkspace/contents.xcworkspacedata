@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Exceptions3"
+      name = "Exceptions3">
+      <Group
+         location = "group:Exceptions3"
+         name = "Exceptions3">
+         <FileRef
+            location = "group:main.cpp">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Exceptions3.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:Exceptions2"
+      name = "Exceptions2">
+      <Group
+         location = "group:Exceptions2"
+         name = "Exceptions2">
+         <FileRef
+            location = "group:main.cpp">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Exceptions2.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:CPP11"
+      name = "CPP11">
+      <Group
+         location = "group:CPP11"
+         name = "CPP11">
+         <FileRef
+            location = "group:main.cpp">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CPP11.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
